@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SIMANT ANAND\\source\\repos\\Create_WEBAPI\\Create_WEBAPI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\SIMANT ANAND\\source\\repos\\Create_WEBAPI\\Create_WEBAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\SIMANT ANAND\\source\\repos\\Create_WEBAPI\\Create_WEBAPI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Create_WEBAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Create_WEBAPI.props",
+      "PackagePath": "build\\Create_WEBAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Create_WEBAPI.props",
+      "PackagePath": "buildMultiTargeting\\Create_WEBAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Create_WEBAPI.props",
+      "PackagePath": "buildTransitive\\Create_WEBAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
